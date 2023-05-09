@@ -1,0 +1,9 @@
+Best city 4
+Accessibility 3
+Total distance 6
+Path 4 2 1
+Distance 4
+Path 4 2
+Distance 1
+Path 4 3
+Distance 1
